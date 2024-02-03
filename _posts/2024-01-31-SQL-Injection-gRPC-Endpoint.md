@@ -2,7 +2,8 @@
 layout: post
 title:  "SQL Injection on gRPC Endpoint AND exploiting a pyLoad vulnerability for Privilege Escalation"
 author: dz
-categories: [ SQL Injection, HTB ]
+categories: [HTB]
+tags: [web, ctf, linux_infrastructure, sqli]
 image: assets/images/018d6f13-5166-7fb6-92e0-a2ce31011286/thumbnail.png
 featured: true
 ---
