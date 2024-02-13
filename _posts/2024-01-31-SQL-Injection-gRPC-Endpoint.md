@@ -5,7 +5,7 @@ author: dz
 categories: [HTB]
 tags: [web, ctf, linux_infrastructure, sqli]
 image: assets/images/018d6f13-5166-7fb6-92e0-a2ce31011286/thumbnail.png
-featured: true
+featured: false
 ---
 
 gRPC is a framework that works with **Remote Procedural Calls**. It is an opensource created by Google that uses *protocol buffers* for serialization and HTTP/2 for transport.
