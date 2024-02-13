@@ -35,7 +35,7 @@ As I have said earlier, this is my first time to encounter **gRPC**. So I spent 
 
 Using the tool, I used the command: **`./grpcurl -plaintext <IP>:<PORT> list`**
 
-<img src="../../blog/assets/images/018d6f13-5166-7fb6-92e0-a2ce31011286/sc 2.png">
+<img src="../../blog/assets/images/018d6f13-5166-7fb6-92e0-a2ce31011286/sc2.png">
 
 Hey, Look at that! there's something called "SimpleApp". That could be **juicy~licious**.  So I checked it further with the following command: **`./grpcurl -plaintext <IP>:<PORT> list SimpleApp`**
 
